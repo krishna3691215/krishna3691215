@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **lokeshkushwaha@gmail.com** For Collaboration/Project or A
 - 👯 **I’m looking to collaborate on:** ...
 - 🤔 **I’m looking for help with:** ...
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:**lokeshkushwaha@gmail.com
+- 📫 **How to reach me:** lokeshkushwaha@gmail.com
 - 😄 **Pronouns:** Lokesh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
