@@ -1,19 +1,19 @@
 ## Hi there 👋,I'm Lokesh Kushwaha
 
-Email Me 👉 ✉️ **lokeshkushwaha@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **lokeshkushwaha2312@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** ...
 - 🌱 **I’m currently learning:** ...
 - 👯 **I’m looking to collaborate on:** ...
 - 🤔 **I’m looking for help with:** ...
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** lokeshkushwaha@gmail.com
+- 📫 **How to reach me:** lokeshkushwaha2312@gmail.com
 - 😄 **Pronouns:** Lokesh
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lokesh Kushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshkushwaha2312@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ lokeshkushwaha2312@gmail) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokeshkushwaha2312@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
